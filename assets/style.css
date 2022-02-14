@@ -13,12 +13,22 @@ body {
     border-left: 1px solid black;
     padding: 10px;
   }
+
+  h1 {
+    font-style: italic;
+    font-size: 60px;
+  }
+
+  p {
+    font-size: 40px;
+    color: aliceblue;
+  }
   
   .jumbotron {
     text-align: center;
     background-color: transparent;
     border-radius: 0;
-    border-bottom: 10px solid rgb(107, 107, 107);
+    border-bottom: 10px solid black;
   }
   
   .description{
@@ -39,21 +49,21 @@ body {
   .hour {
     background-color: white;
     color: #000000;
-    border-top: 1px dashed #000000;
+    border-top: 1px royalblue;
   }
   
   .past {
-    background-color: #a7a5a5;
+    background-color: grey;
     color: white;
   }
   
   .present {
-    background-color: #ff6961;
+    background-color: red;
     color: white;
   }
   
   .future {
-    background-color: #77dd77;
+    background-color: green;
     color: white;
   }
   
