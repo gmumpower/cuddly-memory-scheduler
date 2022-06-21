@@ -1,6 +1,6 @@
 # Basic-scheduler ![MIT](https://img.shields.io/badge/license-MIT-green)
 
-Deployed Application https://gmumpower.github.io/cuddly-memory-scheduler/
+Deployed Application https://gmumpower.github.io/memory-scheduler/
 
 ## Description
 
